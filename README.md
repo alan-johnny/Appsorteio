@@ -3,4 +3,4 @@
 
 ![Screenshot_appSorteio](https://github.com/user-attachments/assets/6f83233b-01c6-4216-9adf-2297add4bd6f)
 
-<img src ="Screenshot_appSorteio" width = "200px"/>
+<img src ="https://github.com/user-attachments/assets/6f83233b-01c6-4216-9adf-2297add4bd6f" width = "200px"/>
