@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App sorteio</string>
+    <string name="app_intro">Elige un número del 0 al 10</string>
+    <string name="app_btn">EMPEZAR A DIBUJAR</string>
+    <string name="app_result">Resultado:</string>
+</resources>
